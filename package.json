@@ -1,0 +1,23 @@
+{
+  "name": "Roppy the robot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webondevices"
+  },
+  "keywords": [
+    "javascript",
+    "arduino",
+    "sensor"
+  ],
+  "author": "Maya Marschalko",
+  "license": "ISC",
+  "dependencies": {
+    "johnny-five": "^0.10.6",
+    "keypress": "^0.2.1",
+    "play-sound": "^1.1.2",
+    "say": "^0.14.0"
+  }
+}
