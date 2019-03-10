@@ -1,7 +1,7 @@
 {
-  "name": "Roppy the robot",
+  "name": "roppy",
   "version": "1.0.0",
-  "description": "",
+  "description": "Roppy the robot",
   "main": "index.js",
   "repository": {
     "type": "git",
